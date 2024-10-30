@@ -1,0 +1,45 @@
+2024/09/25 00:29:12 [emerg] 9796#7048: "server" directive is not allowed here in C:\nginx-1.27.1/conf/nginx.conf:47
+2024/09/25 00:30:53 [emerg] 7104#7684: "server" directive is not allowed here in C:\nginx-1.27.1/conf/nginx.conf:57
+2024/09/25 00:32:11 [error] 10076#12052: *1 CreateFile() "C:\nginx-1.27.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/index.html"
+2024/09/25 00:37:10 [emerg] 10260#12756: unexpected "}" in C:\nginx-1.27.1/conf/nginx.conf:111
+2024/09/25 00:37:56 [emerg] 13404#13416: unexpected "}" in C:\nginx-1.27.1/conf/nginx.conf:87
+2024/09/25 00:38:50 [notice] 13692#13704: signal process started
+2024/09/25 01:31:42 [error] 3036#8156: *1 CreateFile() "C:\nginx-1.27.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/index.html"
+2024/09/25 01:31:57 [error] 3036#8156: *2 CreateFile() "C:\nginx-1.27.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/10/02 05:02:16 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/index.html"
+2024/10/02 05:02:30 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/32" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /32 HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:02:37 [error] 8888#6672: *1 CreateFile() "C:/data/images/32" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images/32 HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:02:41 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:03:35 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:04:03 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:04:03 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:04:04 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:04:04 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:04:04 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:04:04 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:04:04 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:04:08 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:04:09 [error] 8888#6672: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:06:34 [error] 8888#6672: *2 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:09:03 [error] 11080#4988: *1 "C:/data/www/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:09:12 [error] 11080#4988: *1 CreateFile() "C:/data/www/images" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:09:49 [error] 13172#11624: *1 CreateFile() "C:\nginx-1.27.1/html/images" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:10:22 [error] 13172#11624: *1 CreateFile() "C:/data/images/32.png" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images/32.png HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:10:58 [error] 13172#11624: *1 CreateFile() "C:/data/images/32.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images/32.jpeg HTTP/1.1", host: "127.0.0.1"
+2024/10/02 05:11:09 [error] 13172#11624: *1 CreateFile() "C:/data/images/32.jpg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images/32.jpg HTTP/1.1", host: "127.0.0.1"
+2024/10/09 00:10:06 [error] 824#17032: *1 CreateFile() "C:\nginx-1.27.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/10/09 00:56:47 [emerg] 11492#1756: invalid number of arguments in "add_header" directive in C:\nginx-1.27.1/conf/nginx.conf:54
+2024/10/09 00:59:38 [emerg] 11108#12832: invalid number of arguments in "add_header" directive in C:\nginx-1.27.1/conf/nginx.conf:49
+2024/10/09 01:00:05 [notice] 13480#16304: signal process started
+2024/10/09 01:00:05 [error] 13480#16304: OpenEvent("Global\ngx_reload_10012") failed (2: The system cannot find the file specified)
+2024/10/09 01:00:51 [error] 15164#2752: *1 "C:/data/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2024/10/09 01:01:36 [error] 15164#2752: *1 "C:/data/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2024/10/09 01:01:42 [error] 15164#2752: *1 "C:/data/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2024/10/09 01:02:44 [error] 14940#8960: *1 CreateFile() "C:/data/images/32.jpg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/32.jpg HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/10/09 01:03:38 [error] 16776#9104: *1 CreateFile() "C:\nginx-1.27.1/data/images/32.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /img/32.jpg HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/10/09 01:10:38 [emerg] 12888#644: unexpected "}" in C:\nginx-1.27.1/conf/nginx.conf:73
+2024/10/09 01:14:35 [emerg] 13940#8768: unexpected "}" in C:\nginx-1.27.1/conf/nginx.conf:73
+2024/10/09 01:15:05 [emerg] 18216#13696: unexpected "}" in C:\nginx-1.27.1/conf/nginx.conf:53
+2024/10/09 01:15:50 [error] 6832#10144: *1 CreateFile() "C:\nginx-1.27.1/data2/img/1.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localtest, request: "GET /img/1.jpg HTTP/1.1", host: "localtest", referrer: "http://localtest/"
+2024/10/09 01:15:50 [error] 6832#10144: *1 CreateFile() "C:\nginx-1.27.1/data2/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localtest, request: "GET /favicon.ico HTTP/1.1", host: "localtest", referrer: "http://localtest/"
+2024/10/09 01:15:58 [error] 6832#10144: *1 CreateFile() "C:\nginx-1.27.1/data2/img/1.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localtest, request: "GET /img/1.jpg HTTP/1.1", host: "localtest", referrer: "http://localtest/"
